@@ -1,0 +1,15 @@
+pytz
+pyarrow
+cloudpickle
+numexpr
+urllib3
+numpy
+certifi
+lxml
+bottleneck
+pandas
+requests
+idna
+soupsieve
+six
+chardet
